@@ -1,4 +1,4 @@
-# Tourism dataset
+# Group decision-making dataset / Tourism domain
 
 The datset contains the following files:
 
